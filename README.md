@@ -24,7 +24,7 @@ Follow simple instructions here under "Create and use App Passwords"
 > 
 Place developers gmail and created app password in line 283 and 299 of main file
 
-## add email to send/receive alerts
+## Add email to send/receive alerts
 Add emails server IP in line 42 of main and add email address in line 44 and 46
 >NOTE: this is only for using non gmail emails. To easily use a gmail simply replace lines 41 - 56 with
 ```
