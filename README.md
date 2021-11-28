@@ -40,10 +40,10 @@ Open Windows event viewer (Windows + R and type: eventvwr)
 
 >Click "create subscription" on the right side of the event viewer
 >![Screenshot 2021-11-28 121937](https://user-images.githubusercontent.com/93505099/143784526-06f372f5-6acc-4eb3-8a0a-67c38e932c4f.png)
-
->Configure Event Id's and computer from which to forward events from and too
 >
->For more help on how to forward events visit [Forwarding Events](https://adamtheautomator.com/windows-event-collector/)
+Configure Event Id's and computer from which to forward events from and too
+>
+For more help on how to forward events visit [Forwarding Events](https://adamtheautomator.com/windows-event-collector/)
 >
 >NOTE: Be sure to add Forwarded Events as Destination Log!
 
