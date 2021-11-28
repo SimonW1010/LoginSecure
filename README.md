@@ -44,6 +44,7 @@ Open Windows event viewer (Windows + R and type: eventvwr)
 >Configure Event Id's and computer from which to forward events from and too
 >
 >For more help on how to forward events visit [Forwarding Events](https://adamtheautomator.com/windows-event-collector/)
+>
 >NOTE: Be sure to add Forwarded Events as Destination Log!
 
 # Run it as a Windows Service
